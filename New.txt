@@ -1,0 +1,11 @@
+Modules
+NgModules vs. JavaScript modules
+Angular libraries
+Components
+Templates
+Metadata
+Data binding
+Directives
+Services
+Dependency injection
+Wrap up
